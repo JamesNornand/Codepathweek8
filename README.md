@@ -17,22 +17,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection Attack
+![](https://github.com/JamesNornand/Codepathweek8/blob/master/blue_1.gif)
 
 Vulnerability #2: Session Hijacking Attack
-
+![](https://github.com/JamesNornand/Codepathweek8/blob/master/blue_2.gif)
 
 ## Green
 
 Vulnerability #1: Enumeration Attack
+![](https://github.com/JamesNornand/Codepathweek8/blob/master/green_1.gif)
 
 Vulnerability #2: Stored Cross-site Scripting Attack
-
+![](https://github.com/JamesNornand/Codepathweek8/blob/master/green_2.gif)
 
 ## Red
 
 Vulnerability #1: IDOR Attack
+![](https://github.com/JamesNornand/Codepathweek8/blob/master/red_1.gif)
 
 Vulnerability #2: CSRF Attack
+![](https://github.com/JamesNornand/Codepathweek8/blob/master/red_2.gif)
 
 ## Notes
 
